@@ -1,0 +1,32 @@
+{
+  "name": "weddingapplication",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.9.5",
+    "eslint": "^6.6.0",
+    "eslint-config-react-app": "^5.2.0",
+    "eslint-loader": "3.0.3",
+    "eslint-plugin-flowtype": "4.6.0",
+    "eslint-plugin-import": "2.20.0",
+    "eslint-plugin-jsx-a11y": "6.2.3",
+    "eslint-plugin-react": "7.18.0",
+    "eslint-plugin-react-hooks": "^1.6.1",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0",
+    "react-fontawesome": "^1.7.1",
+    "reactjs-popup": "^1.5.0"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.7"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  }
+}
